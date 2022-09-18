@@ -1,4 +1,5 @@
 <h1 align="left">Hi, Im <a href="https://cummarik.github.io" target="_blank">Daniil</a> </h1>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1800&pause=5000&width=435&lines=Student+programmer)](https://git.io/typing-svg)
 
 [![codewars](https://www.codewars.com/users/cummarik/badges/small)](https://www.codewars.com/users/cummarik)  
