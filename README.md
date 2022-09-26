@@ -4,7 +4,7 @@
 
 [![codewars](https://www.codewars.com/users/cummarik/badges/small)](https://www.codewars.com/users/cummarik)  
 
-- 🌍 I speak Russian (native), English (poor level)
+- 🌍 I speak Russian (native), English (A2~B1)
 
 - 🧑‍💻 Im learning **Web, desktop and python** and interested in InfoSec and OSINT
 
