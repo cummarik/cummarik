@@ -25,6 +25,5 @@
 <p align="left"> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/cummarik/cummarik/main/icons/git.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/cummarik/cummarik/main/icons/VS-code.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.gitkraken.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/cummarik/cummarik/main/icons/gitkraken.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/cummarik/cummarik/main/icons/figma.svg" alt="figma" width="30" height="40"/> </a> 
 </p>
